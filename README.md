@@ -1,2 +1,15 @@
-# music-discord
-A semi-complete music cog (discord bot) with all needed commands (original : https://gist.github.com/vbe0201/ade9b80f2d3b64643d854938d40a0a2d), i've only added some useful things :3
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1>
+
+## Hey! 👋
+I'm Daishiky, a 18 years old python developer from Italy.
+
+## Skills
+- 👨‍💻 Python
+- 👁️ CSS (A little bit)
+- 💽 PostgreSQL
+
+## Contact
+- [First Discord Bot Project](http://ami.6te.net/#)
+- [Discord Server](https://discord.gg/ZcErEwmVYu) on Discord
