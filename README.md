@@ -4,6 +4,10 @@
 
 ## Hey! 👋
 I'm Daishiky, a 18 years old python developer from Italy.
+This repo is a semi-complete music code (for discord bot, inside cogs) 
+I'm a beginner on python, so maybe you can found some issues, and i'm so sorry for this.
+
+## Leave a star if the repo can be useful for you! 🌟
 
 ## Skills
 - 👨‍💻 Python
