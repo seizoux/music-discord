@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Daishiky" />
+  <img src="https://raw.githubusercontent.com/Daishiky/music-discord/main/laptop-2.svg" alt="Daishiky" />
 </h1>
 
 ## Hey! 👋
