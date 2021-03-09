@@ -1,6 +1,7 @@
 import discord # library
 from discord import client  # library
 import os # library
+from discord.ext import commands
 
 # THIS IS THE TRIGGER PREFIX OF UR COMMANDS, LIKE ".BAN" "/BAN" "!BAN" "?BAN" "$BAN"
 intents=discord.Intents.default()
