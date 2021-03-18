@@ -19,5 +19,5 @@ I'm a beginner on python, so maybe you can found some issues, and i'm so sorry f
 - 💽 PostgreSQL
 
 ## Contact
-- [First Discord Bot Project](http://ami.6te.net/#)
+- [First Discord Bot Project](http://amidiscord.xyz/)
 - [Discord Server](https://discord.gg/ZcErEwmVYu) on Discord
